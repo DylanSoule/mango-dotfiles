@@ -1,0 +1,30 @@
+{
+  "change_serial": 3,
+  "entries": [
+    {
+      "active": false,
+      "close_reason": "expired",
+      "event_serial": 3,
+      "notification": {
+        "actions": [],
+        "app_name": "Network Management",
+        "body": "Connection ':-P' activated.",
+        "category": null,
+        "desktop_entry": "org.kde.kded6",
+        "expiry_wall_ms": 1792361241822,
+        "icon": "network-wireless-on",
+        "id": 2,
+        "image_data": null,
+        "origin": "external",
+        "persist_in_history": false,
+        "received_wall_ms": 1792361235822,
+        "summary": ":-P",
+        "timeout": 6000,
+        "urgency": "normal"
+      },
+      "seen": false
+    }
+  ],
+  "next_id": 3,
+  "version": 2
+}

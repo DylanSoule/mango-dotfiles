@@ -1,0 +1,8 @@
+[wallpaper]
+directory = "/home/dylans/Pictures/Wallpaper_Photos"
+
+[wallpaper.automation]
+enabled = true
+interval_seconds = 3600
+order = "random"
+recursive = false
